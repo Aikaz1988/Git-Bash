@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Путь к папке с загруженными изображениями
-images_path="C:\Users\Aykaz\Documents\Git-Bash\attachments"
+images_path="/путь/к/папке/с/изображениями"
 
 # Проверяем существование папки
 if [ -d "$images_path" ]; then
