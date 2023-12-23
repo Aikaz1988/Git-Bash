@@ -11,3 +11,4 @@ do
     # Загружаем фотографию и сохраняем в attachments
     curl https://picsum.photos/800/400 -L > "attachments/$filename"
 done
+
